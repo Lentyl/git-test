@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Mariusz tests
-Jakub tst
-=======
-Mariusz tsts
-Jakub test
->>>>>>> b46e4ded505eab67a043544bfbe8d1e1ac6a6b50
+Jakub tests
+
